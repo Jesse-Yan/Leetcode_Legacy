@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4152f23b-f0d5-4c6d-8c5c-310731ef50c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/I0406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N436.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N464.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/N961.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="293BqnJZPlZdbrX7at8INQpbEDh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="N7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="N7" />
+      <module name="LeetCodeN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.N7" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4152f23b-f0d5-4c6d-8c5c-310731ef50c0" name="Changes" comment="" />
+      <created>1652332083858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652332083858</updated>
+      <workItem from="1652332085412" duration="5183000" />
+      <workItem from="1652337404359" duration="7000" />
+      <workItem from="1652598070272" duration="3961000" />
+      <workItem from="1652604579472" duration="1529000" />
+      <workItem from="1652651383555" duration="8475000" />
+      <workItem from="1652743078130" duration="8529000" />
+      <workItem from="1652931143767" duration="845000" />
+      <workItem from="1653020128246" duration="2758000" />
+      <workItem from="1653023200539" duration="2823000" />
+      <workItem from="1653026805037" duration="121000" />
+      <workItem from="1653102560365" duration="142000" />
+      <workItem from="1653105663410" duration="6738000" />
+      <workItem from="1653118411743" duration="72000" />
+      <workItem from="1653187337429" duration="6480000" />
+      <workItem from="1653201772052" duration="102000" />
+      <workItem from="1653261202086" duration="605000" />
+      <workItem from="1653371780779" duration="3000" />
+      <workItem from="1653534992608" duration="2000" />
+      <workItem from="1656551673761" duration="602000" />
+      <workItem from="1656635084118" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
